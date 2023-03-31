@@ -2,6 +2,9 @@
 #include<conio.h>
 void main()
 {
+    a=10;
+    b=20;
+    c=a+b;
     printf("hello world");
     printf("hello");
     getch();
